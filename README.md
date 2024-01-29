@@ -1,8 +1,8 @@
-# Nerfies
+# StegFormer
 
 This is the repository that contains source code for the [StegFormer project website](https://StegFormer.github.io).
 
-If you find Nerfies useful for your work please cite:
+If you find StegFormer useful for your work please cite:
 ```
 ```
 
